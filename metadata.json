@@ -1,0 +1,8 @@
+{
+  "name": "Sakhelosno | სახელოსნო",
+  "description": "Custom furniture made to order and ready-to-go architectural models in Tbilisi, Georgia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

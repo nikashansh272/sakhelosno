@@ -1,0 +1,16 @@
+/                        /ka/                  302
+/ka/catalog/mirrors      /ka/catalog/bathroom/ 301
+/ka/catalog/mirrors/     /ka/catalog/bathroom/ 301
+/en/catalog/mirrors      /en/catalog/bathroom/ 301
+/en/catalog/mirrors/     /en/catalog/bathroom/ 301
+/ru/catalog/mirrors      /ru/catalog/bathroom/ 301
+/ru/catalog/mirrors/     /ru/catalog/bathroom/ 301
+/ka/mirrors              /ka/catalog/bathroom/ 301
+/ka/mirrors/             /ka/catalog/bathroom/ 301
+/en/mirrors              /en/catalog/bathroom/ 301
+/en/mirrors/             /en/catalog/bathroom/ 301
+/ru/mirrors              /ru/catalog/bathroom/ 301
+/ru/mirrors/             /ru/catalog/bathroom/ 301
+/mirrors                 /ka/catalog/bathroom/ 301
+/mirrors/                /ka/catalog/bathroom/ 301
+/*                       /index.html           200
