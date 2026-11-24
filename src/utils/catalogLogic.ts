@@ -9,7 +9,7 @@ import type {
   PageNavId,
 } from '../types/site';
 
-export const PHONE_DISPLAY = '555 55 90 47';
+export const PHONE_DISPLAY = '+995 555 55 90 47';
 export const PHONE_E164 = '+995555559047';
 export const WHATSAPP_NUMBER = '995555559047';
 

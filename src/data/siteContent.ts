@@ -28,7 +28,7 @@ export const CLIENT_MAP_SETTINGS = {
  * Owner-editable business settings, pricing rate, and catalog entries.
  */
 export const OWNER_CONFIG = {
-  phoneDisplay: '555 55 90 47',
+  phoneDisplay: '+995 555 55 90 47',
   phoneE164: '+995555559047',
   whatsappNumber: '995555559047',
   instagramHandle: 'sakhelosno_official',

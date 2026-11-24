@@ -228,7 +228,7 @@ const INNER_DESCRIPTIONS: Record<'custom-order' | 'payment' | 'delivery' | 'cont
     ru: 'Доставка и монтаж мебели по Тбилиси и всем регионам Грузии. Собственная бригада бережно привозит, собирает и устанавливает шкафы, кухни и тумбы.',
   },
   contact: {
-    ka: 'დაუკავშირდით საწარმოს თბილისში: ნატო გიორგაძის ქ. 16, ტელეფონი 555 55 90 47, WhatsApp, Instagram და Facebook. ავეჯი თბილისში და შეკვეთით საქართველოში.',
+    ka: 'დაუკავშირდით საწარმოს თბილისში: ნატო გიორგაძის ქ. 16, ტელეფონი +995 555 55 90 47, WhatsApp, Instagram და Facebook. ავეჯი თბილისში და შეკვეთით საქართველოში.',
     en: 'Contact Sakhelosno in Tbilisi at Nato Giorgadze St 16. Call +995 555 55 90 47 or message on WhatsApp for ready-made furniture and custom build quotes.',
     ru: 'Контакты Sakhelosno в Тбилиси: ул. Нато Гиоргадзе 16, телефон +995 555 55 90 47, WhatsApp, Instagram и Facebook. Готовая мебель и изготовление на заказ.',
   },
